@@ -3,7 +3,7 @@ import csv
 import time
 import google.genai as genai
 
-client = genai.Client(api_key="AIzaSyAgILFBkttRsU-pQNLLQKkbECddg1qm9pg")
+client = genai.Client(api_key="Your Api Key")
 
 ANNOTATION_LABELS = [
     "Deep Learning",
